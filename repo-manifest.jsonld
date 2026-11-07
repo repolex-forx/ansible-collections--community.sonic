@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.sonic/commit/59d2dcaa251166d63135bbbc171bc71b82f3b946",
       "git:hexsha": "59d2dcaa251166d63135bbbc171bc71b82f3b946",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.0",
+      "repolex:parsedAt": "2026-11-07T14:07:41.512564+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.sonic/commit/11f8aaf38abb35ff285347cedb62049ff74bfffe",
