@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.sonic",
+  "versions": [
+    {
+      "commit": "59d2dcaa251166d63135bbbc171bc71b82f3b946",
+      "tag": "v0.4.0",
+      "parsed_at": "2026-11-07T14:07:41.513051+00:00"
+    }
+  ]
+}
